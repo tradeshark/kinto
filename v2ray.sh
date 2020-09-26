@@ -10,7 +10,7 @@ cat << EOF > /etc/config.json
             "settings": {
                 "clients": [
                     {
-                        "id": "$UUID"
+                        "id": "ad806487-2d26-4636-98b6-ab85cc8521f7"
                     }
                 ]
             },
